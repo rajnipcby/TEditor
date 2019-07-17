@@ -1,5 +1,5 @@
 # TEditor
-HTML EDITOR
+HTML EDITOR - Free to use in any website.
 
 Here is the code to put it in your web page to load TEditor.
 
